@@ -6,4 +6,4 @@ Team :=
         Yash Hingu
         Nishit Jajal
         Keyur Barot
-        Jenish Varma
+        Jeanish Varma
