@@ -4,6 +4,6 @@ Def := This BloodBankManagement project is helping to automate a flow of blood i
 Team := 
         Neet Savaliya 
         Yash Hingu
-        Nishit Jalal
+        Nishit Jajal
         Keyur Barot
         Jenish Varma
