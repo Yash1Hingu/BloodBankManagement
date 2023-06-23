@@ -1,0 +1,9 @@
+Def := This BloodBankManagement project is helping to automate a flow of blood industry.
+
+
+Team := 
+        Neet Savaliya 
+        Yash Hingu
+        Nishit Jalal
+        Keyur Barot
+        Jenish Varma

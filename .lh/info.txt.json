@@ -1,0 +1,106 @@
+{
+    "sourceFile": "info.txt",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 22,
+            "patches": [
+                {
+                    "date": 1687507229350,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1687507238857,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+Def := This \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507246279,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+Def := This BloodBankManagement project is \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507264768,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+Def := This BloodBankManagement project is all about\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507275916,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,1 @@\n-Def := This BloodBankManagement project is all about\n-Def := This BloodBankManagement project is \n-Def := This \n-Def :\n\\ No newline at end of file\n+Def := This BloodBankManagement project is helping to automate a flow \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507285894,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blu\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507292097,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood ind\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507297698,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,1 @@\n-Def := This BloodBankManagement project is helping to automate a flow of blood ind\n-Def := This BloodBankManagement project is helping to automate a flow of blu\n-Def := This BloodBankManagement project is helping to automate a flow \n\\ No newline at end of file\n+Def := This BloodBankManagement project is helping to automate a flow of blood inderstry\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507303974,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-Def := This BloodBankManagement project is helping to automate a flow of blood inderstry\n\\ No newline at end of file\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507309702,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,3 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n"
+                },
+                {
+                    "date": 1687507318648,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,4 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507330842,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya :- \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507336662,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,6 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash hingu\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507344972,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,8 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507350562,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,8 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        Keyur barot\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507356298,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        Keyur barot\r\n+        j\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507362418,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        Keyur barot\r\n+        Jenidh\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507367974,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        Keyur barot\r\n+        Jenidh\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507377064,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet savaliya \r\n+        Yash hingu\r\n+        Nishit jalal\r\n+        Keyur barot\r\n+        Jeni\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507395949,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,71 +1,9 @@\n Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n \r\n \r\n Team := \r\n-        Neet savaliya \r\n-        Yash hingu\r\n-        Nishit jalal\r\n-        Keyur barot\r\n-        Jeni\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet savaliya \r\n-        Yash hingu\r\n-        Nishit jalal\r\n-        Keyur barot\r\n-        Jenidh\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n         Neet Savaliya \r\n         Yash hingu\r\n         Nishit jalal\r\n         Keyur barot\r\n-        Jenidh\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet Savaliya \r\n-        Yash hingu\r\n-        Nishit jalal\r\n-        Keyur barot\r\n-        j\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet Savaliya \r\n-        Yash hingu\r\n-        Nishit jalal\r\n-        Keyur barot\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet Savaliya \r\n-        Yash hingu\r\n-        Nishit jalal\r\n-        \n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet Savaliya \r\n-        Yash hingu\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \r\n-        Neet Savaliya :- \n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Team := \n-Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n-\r\n-\r\n-Def := This BloodBankManagement project is helping to automate a flow of blood industry\n\\ No newline at end of file\n+        Jenish \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507403262,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash Hingu\r\n+        Nishit Jalal\r\n+        Keyur Barot\r\n+        Jenish \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507408484,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash Hingu\r\n+        Nishit Jalal\r\n+        Keyur Barot\r\n+        Jenish \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1687507416751,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+Def := This BloodBankManagement project is helping to automate a flow of blood industry.\r\n+\r\n+\r\n+Team := \r\n+        Neet Savaliya \r\n+        Yash Hingu\r\n+        Nishit Jalal\r\n+        Keyur Barot\r\n+        Jenish Vrma\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1687507229350,
+            "name": "Commit-0",
+            "content": "Def :"
+        }
+    ]
+}
