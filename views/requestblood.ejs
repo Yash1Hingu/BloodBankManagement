@@ -1,0 +1,58 @@
+<%- include('partial/headerlink') -%>
+    <section class="bloodrequireContainer">
+        <h1 class="req_bld_header">Request For Blood</h1>
+        <form method="post" action="/requestblood" enctype="multipart/form-data" class="requestBlood_form">
+            <div class="mb-3">
+                <label for="exampleInputname" class="form-label">Full Name</label>
+                <input name="patientfullname" type="text" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputeamil" class="form-label">Email</label>
+                <input name="patientemail" type="email" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputpassword" class="form-label">Password</label>
+                <input name="patientpassword" type="password" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputconfirempassword" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" required>
+            </div>
+            <select name="patientbloodgrp" class="form-select mt-3 mb-3" aria-label="Default select example" required>
+                <option selected>Open this select Blood Group</option>
+                <option value="a">A</option>
+                <option value="a+">A+</option>
+                <option value="b">B</option>
+                <option value="b+">B+</option>
+                <option value="ab+">AB+</option>
+                <option value="ab-">AB-</option>
+                <option value="o+">O+</option>
+                <option value="o-">O-</option>
+            </select>
+            <div class="mb-3">
+                <label for="exampleInputcontactNumber" class="form-label">Contact Number</label>
+                <input name="contactnumber" type="text" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputdob" class="form-label">Birth Date</label>
+                <input name="patientbirthdate" type="date" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="userAddress" class="form-label">Address</label>
+                <textarea name="patientaddress" class="form-control" id="userAddress" rows="3" required></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputCity" class="form-label">City</label>
+                <input name="patientcity" type="text" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputCity" class="form-label">State</label>
+                <input name="patientstate" type="text" class="form-control" required>
+            </div>
+            <div class="input-group mb-3">
+                <input name="patientphoto" type="file" class="form-control" id="inputGroupFile02">
+                <label class="input-group-text" for="inputGroupFile02" required>Upload</label>
+            </div>
+            <button type="submit" class="btn btn-outline-danger request-btn">Request</button>
+        </form>
+    </section>
