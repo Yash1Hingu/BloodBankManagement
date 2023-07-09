@@ -48,7 +48,7 @@ app.post("/loginuser", (req, res) => {
 
 app.get("/logout", (req, res) => {
     ADMININ = false;
-    res.render('home', { adminhome: ADMININ });
+    res.redirect('/');
 })
 
 app.get('/requestblood', (req, res) => {
@@ -69,7 +69,7 @@ app.post('/requestblood', upload.single('patientphoto'),(req, res) => {
         patientstate: req.body.patientstate,
         patientphoto: photo,
     }
-    console.log(patientDetails);
+    res.redirect('/');
 })
 
 
