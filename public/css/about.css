@@ -1,0 +1,13 @@
+.about_header{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+.about_head{
+    padding: 20px 0 5px 20px;
+}
+.about_text{
+    text-align: justify;
+    padding: 20px;
+}

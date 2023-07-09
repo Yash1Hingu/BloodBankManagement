@@ -1,3 +1,51 @@
 <%- include('partial/header') -%>
-<h1>Contact Page</h1>
-<%- include('partial/footer') -%>
+    <h1 class="heding_contact_page">Contact Page</h1>
+    <section class="contactPage">
+        <div class="contactContainer">
+            <div class="contactDirect">
+                <div class="card  mb-3" style="max-width: 18rem;">
+                    <h5 class="card-header">Get in touch with us</h5>
+                    <div class="card-body">
+                        <h6 class="card-title">Phone:</h6>
+                        <p class="card-text">+91 XXXXXXXXXX</p>
+                        <hr>
+                        <h6 class="card-title">Email:</h6>
+                        <p class="card-text">name@gmail.com</p>
+                        <h6 class="card-title">Address:</h6>
+                        <p class="card-text">Near Vrudavan Chokadi,Waghodia Road.</p>
+                        <h5 class="card-title">Social Network</h5>
+                        <p class="card-text">
+                            <a href="/"><img src="/images/iconfacebook.svg" alt="facebookicon" class="socialicon"></a>
+                            <a href="/"><img src="/images/icontwitter.gif" alt="twittericon" class="socialicon"></a>
+                            <a href="/"><img src="/images/iconlinkedin.svg" alt="twittericon" class="socialicon"></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contactForm">
+            <form method="post" action="/contact">
+                <div class="row g-2 align-items-center">
+                    <div class="col-6 form-floating ">
+                        <input type="text" class="form-control" id="floatingInput" placeholder="Your Name">
+                        <label for="floatingInput">Your Name</label>
+                    </div>
+                    <div class="col-6 form-floating ">
+                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                        <label for="floatingInput">Your Email</label>
+                    </div>
+                </div>
+                <div class="form-floating mt-3">
+                    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                    <label for="floatingInput">Your Email</label>
+                </div>
+                <div class="form-floating mt-3">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2"
+                        style="height: 100px"></textarea>
+                    <label for="floatingTextarea2">Comments</label>
+                </div>
+                <button type="submit" class="btn btn-outline-info mt-3">Send Message</button>
+            </form>
+        </div>
+    </section>
+    <%- include('partial/footer') -%>
