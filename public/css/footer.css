@@ -1,0 +1,30 @@
+.footer{
+    background-color: #434343;
+    color: #bbbbbb;
+}
+.footerContainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    cursor: pointer;
+}
+.footerContainer div ul li {
+    margin-left: -15px;
+}
+
+.copywrites{
+    display: flex;
+    background-color: #323232;
+    padding: 5px 10px;
+}
+
+.copywrites p{
+    display: inline;
+}
+.right-align{
+    margin-left: auto;
+}
+
+.right-align a{
+    color: #ff5454;
+}
