@@ -8,6 +8,15 @@
     padding: 30px;
     cursor: pointer;
 }
+
+@media screen and (max-width:550px) {
+    .footerContainer{
+        flex-direction: column;
+    }
+    .copywrites{
+        flex-direction: column;
+    }
+}
 .footerContainer div ul li {
     margin-left: -15px;
 }
